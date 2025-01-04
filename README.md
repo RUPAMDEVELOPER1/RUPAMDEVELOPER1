@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**RUPAMDEVELOPER1/RUPAMDEVELOPER1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi there 👋  I am Rupam
  
 
@@ -32,4 +25,4 @@ He/Him
 ⚡ **Fun fact:**  
 ☕ I automate everything I can—even my morning coffee alerts!  
 
--->
+
